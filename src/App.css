@@ -285,4 +285,12 @@ body, html {
     max-width: 24rem;
     width: 100%;
   }
+
+  .palette {
+    display: none;
+  }
+
+  .palette.constructor-mode {
+    display: block;
+  }
 }
